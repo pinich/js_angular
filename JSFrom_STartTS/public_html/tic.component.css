@@ -1,0 +1,22 @@
+.app-content {
+    text-align: center;
+}
+
+.board {
+    margin-top: 2em;
+    display: inline-block;
+}
+
+.board .cell {
+    display: inline-block;
+    background-color: red;
+    width: 7em;
+    height: 7em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
+.board .cell.cell-nonempty {
+    background-color: yellow;
+}

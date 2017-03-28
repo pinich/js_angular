@@ -1,0 +1,7 @@
+/node_modules/
+/**/node_modules/
+/**/public_html/**/*.js
+/**/public_html/**/*.map
+/**/public_html/**/**/*.js
+/**/public_html/**/**/*.map
+
